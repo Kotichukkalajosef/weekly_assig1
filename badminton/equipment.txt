@@ -1,0 +1,1 @@
+Badmintion uses a racket, shuttlecock, and a net
